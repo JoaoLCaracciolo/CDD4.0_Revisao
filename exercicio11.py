@@ -1,3 +1,4 @@
+#Questão 17
 quantMaca = int(input("Digite a quantidade de maçãs:"))
 
 if quantMaca < 12:

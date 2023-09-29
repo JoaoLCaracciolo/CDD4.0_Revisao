@@ -1,3 +1,4 @@
+#Questão 8
 soma = 0
 for i in range(4):
     numero = int(input(f"Digite o {i+1}º numero:"))

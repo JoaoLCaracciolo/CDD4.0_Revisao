@@ -1,3 +1,4 @@
+#Questão 12
 votosBrancos = int(input("Digite o numero de votos em brancos:"))
 nulos = int(input("Digite o numero de votos nulos:"))
 validos = int(input("Digite o numero de votos validos:"))

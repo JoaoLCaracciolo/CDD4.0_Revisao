@@ -1,3 +1,4 @@
+#Questão 14
 tempFahrenheit = float(input("Digite a temperatura em Fahrenheit:"))
 
 c = ((tempFahrenheit - 32) / 9) * 5

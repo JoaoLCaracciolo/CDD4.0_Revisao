@@ -1,3 +1,4 @@
+#Questão 10
 numero = int(input("Digite um numero:"))
 
 sucessor = numero + 1
